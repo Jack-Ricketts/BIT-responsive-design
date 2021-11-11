@@ -25,7 +25,9 @@ p{
     margin: 0 10% 5% 10%;
 }
 img{
-    width: 100%;
+    width: 80%;
+    margin: 3%;
+    
 }
 .background{
     background-image: url("mob.png");
